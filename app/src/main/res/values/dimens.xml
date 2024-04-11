@@ -3,6 +3,10 @@
     <dimen name="btn_w">110dp</dimen>
     <dimen name="btn_h">100dp</dimen>
 
+    <dimen name="btn_h1">50dp</dimen>
+    <dimen name="btn_h2">70dp</dimen>
+    <dimen name="btn_h3">90dp</dimen>
+
     <dimen name="textSizeSmall">10sp</dimen>
     <dimen name="textSizeMideum">20sp</dimen>
     <dimen name="textSizeLarge">30sp</dimen>
